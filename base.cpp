@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define debug(x) cout << #x << " = " << x << endl
+#define debug(x) cerr << #x << " = " << (x) << endl
 #define IOS ios::sync_with_stdio(false); cin.tie(NULL)
 
 
