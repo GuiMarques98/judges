@@ -7,6 +7,7 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     IOS;
-    
+    int n; cin>>n;
+    cout << n;    
     return 0;
 }
